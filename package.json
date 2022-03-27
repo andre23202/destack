@@ -45,5 +45,8 @@
       "pretty-quick --staged",
       "tsc --noEmit"
     ]
+  },
+  "dependencies": {
+    "destack": "file:lib/destack"
   }
 }
